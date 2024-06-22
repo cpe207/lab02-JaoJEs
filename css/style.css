@@ -38,3 +38,14 @@ img {
     margin: 0 10px;
 }
 
+
+frame {
+    font-size: 25px;
+    background-color: #fce4ec; /* สีพาสเทลชมพู */
+    padding: 20px;
+    border-radius: 10px; /* มุมโค้งมน */
+    display: inline-block;
+    border: 2px solid #f8bbd0; /* กรอบสีชมพูอ่อน */
+    text-align: left;
+    margin: 0 auto; /* จัดกึ่งกลาง */
+}
